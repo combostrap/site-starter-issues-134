@@ -24,3 +24,8 @@ $conf['tocminheads'] = 1;
 $conf['maxseclevel'] = 4;
 // https://www.dokuwiki.org/config:useheading
 $conf['useheading'] = 1;
+// Conf of tickets
+$conf['indexdelay'] = 0;
+$conf['userewrite'] = 1;
+$conf['useslash'] = 1;
+$conf['canonical'] = 1;

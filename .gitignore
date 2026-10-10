@@ -32,6 +32,9 @@
 data/*
 !data/pages/
 !data/pages/**
+# Ignore the default wiki playground
+data/pages/wiki/
+data/pages/wiki/**
 !data/media/
 !data/media/**
 !data/combo/
